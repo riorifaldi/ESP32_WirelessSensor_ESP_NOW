@@ -84,10 +84,10 @@ E. Two-Way Communication
 
 ![Capture](https://user-images.githubusercontent.com/118172386/210173864-32fef3ae-6fe2-4463-bbf7-10462a2a3d51.JPG)
 
-*Rangkaian*
+*Rangkaian :*
 
 ![Picture2](https://user-images.githubusercontent.com/118172386/210173997-db16f6c3-43fd-41d2-8d5c-6e4d15aede02.png)
 
-*Tampilan Serial Monitor*
+*Tampilan Serial Monitor :*
 
 ![Picture3](https://user-images.githubusercontent.com/118172386/210173992-b4dfa271-443d-4b5d-95d1-972995517a3b.png)
